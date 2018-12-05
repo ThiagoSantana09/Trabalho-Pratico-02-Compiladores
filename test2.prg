@@ -1,0 +1,1 @@
+bool funcao( int x , int y) = x+y
